@@ -6,7 +6,7 @@ import os
 import bpy
 
 # تحديد مسار المجلدات
-directory_path = "E:\Blender\Blender Asset"  # عدّل المسار حسب الحاجة
+directory_path = ""  # عدّل المسار حسب الحاجة
 
 # التحقق من صحة المسار
 if not os.path.exists(directory_path):
